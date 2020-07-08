@@ -9,7 +9,7 @@ colab implementation: https://colab.research.google.com/drive/1PjOnU5HM00HKuhyo0
 colab implementation: https://colab.research.google.com/drive/1JBHdiBDv-YDYwftDjwkifLVcVKmsLLHp?usp=sharing
 
 ### Learning Multi-level Hierarchies with Hindsight (Levy et al., 2019)
-HAC colab implementation: (TODO)
+HAC colab implementation: https://colab.research.google.com/drive/1e0IRULD-742IMzPXoVChJQJTuaCzCEW3?usp=sharing
 
 ### Exploration by Random Network Distillation (Burda et al., 2018)
 RND colab implementation: (TODO)
