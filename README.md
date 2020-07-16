@@ -10,6 +10,7 @@ colab implementation: https://colab.research.google.com/drive/1JBHdiBDv-YDYwftDj
 
 ### Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, Soft Actor Critic (Haarnoja et al., 2018)
 fixed alpha colab implementation: https://colab.research.google.com/drive/10DwFP8ScKZevIBNqDR5LzyKJBD_hlVW9?usp=sharing
+
 auto update alpha colab implementation: (TODO)
 
 ### Learning Multi-level Hierarchies with Hindsight (Levy et al., 2019)
