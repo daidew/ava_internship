@@ -8,7 +8,7 @@ colab implementation: https://colab.research.google.com/drive/1PjOnU5HM00HKuhyo0
 ### Addressing Function Approximation Error in Actor-Critic Methods, TD3 (Fujimoto et al., 2018)
 colab implementation: https://colab.research.google.com/drive/1JBHdiBDv-YDYwftDjwkifLVcVKmsLLHp?usp=sharing
 
-### Soft Actor Critic (Haarnoja et al., 2018)
+### Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, Soft Actor Critic (Haarnoja et al., 2018)
 fixed alpha colab implementation: https://colab.research.google.com/drive/10DwFP8ScKZevIBNqDR5LzyKJBD_hlVW9?usp=sharing
 auto update alpha colab implementation: (TODO)
 
